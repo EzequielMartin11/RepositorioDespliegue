@@ -1,0 +1,6 @@
+# Copias de Seguridad
+*.bak
+# Clases compiladas
+*.class
+# Comentarios privados
+.txt
